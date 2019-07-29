@@ -123,20 +123,7 @@ var Sell = function Sell(props) {
       lineNumber: 4
     },
     __self: this
-  }, "Selling stuff "), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6
-    },
-    __self: this
-  }, "Vamo a casa")));
+  }, "Selling stuff "));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Sell);
